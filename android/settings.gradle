@@ -1,0 +1,3 @@
+rootProject.name = 'ReaduxBT2'
+
+include ':app'
